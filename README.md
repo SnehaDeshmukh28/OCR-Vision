@@ -90,6 +90,10 @@ Optical Character Recognition (OCR) is a technology that converts different type
 3. **Character Recognition**: Converts the detected text areas into machine-encoded text using pattern recognition algorithms.
 4. **Post-Processing**: Corrects errors and improves the accuracy of the recognized text.
 
+## OCR Process Flow
+
+![OCR_ProcessFlow](OCR_ProcessFlow.png)
+
 ## Usage 🚀
 
 1. **Run the Streamlit application**:
