@@ -38,6 +38,7 @@ Before you begin, ensure you have met the following requirements:
 
    ### For Windows:
    - Download Tesseract from the [Tesseract at UB Mannheim page](https://github.com/UB-Mannheim/tesseract/wiki).
+   - Or for Reference to download various versions of Tesseract use this [Tesseract Releases](https://digi.bib.uni-mannheim.de/tesseract/).
    - Run the installer and follow the instructions to install Tesseract.
    - Add Tesseract to your system's PATH:
      - Open the Start menu and search for "Environment Variables".
