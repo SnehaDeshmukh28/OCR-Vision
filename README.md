@@ -117,22 +117,15 @@ ocr-vision/
 └── README.md                # Project README file
 ```
 
-## Dependencies
-
-- streamlit
-- pytesseract
-- pillow
-- pdf2image
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io/)
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [Pillow](https://python-pillow.org/)
 - [pdf2image](https://github.com/Belval/pdf2image)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 We hope you enjoy using OCR-Vision! 🚀
