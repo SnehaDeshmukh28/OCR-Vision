@@ -124,9 +124,8 @@ ocr-vision/
 - [Pillow](https://python-pillow.org/)
 - [pdf2image](https://github.com/Belval/pdf2image)
 
+We hope you enjoy using OCR-Vision! 🚀
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-We hope you enjoy using OCR-Vision! 🚀
