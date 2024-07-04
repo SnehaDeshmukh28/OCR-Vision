@@ -1,13 +1,16 @@
-# OCR Application
+# OCR-Vision
 
 This is a simple OCR (Optical Character Recognition) application built using Streamlit and Tesseract. The application allows users to upload images or PDF files and extracts text from them.
 
-## Features
+## Features ✨
 
-- Upload and process images (PNG, JPG, JPEG).
-- Upload and process PDF files.
-- Display the uploaded image or PDF.
-- Extract and display text from the uploaded files using Tesseract OCR.
+- **Upload and process images** (PNG, JPG, JPEG).
+- **Upload and process PDF files**.
+- **Display the uploaded image or PDF**.
+- **Extract and display text** from the uploaded files using Tesseract OCR.
+- **User-friendly interface** with Streamlit.
+- **Fast and accurate text extraction**.
+- **Cross-platform support** (Windows, macOS, Linux).
 
 ## Prerequisites
 
@@ -21,8 +24,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/ocr-application.git
-   cd ocr-application
+   git clone https://github.com/your-username/ocr-vision.git
+   cd ocr-vision
    ```
 
 2. **Install the required packages**:
@@ -65,7 +68,7 @@ Before you begin, ensure you have met the following requirements:
    tesseract --version
    ```
 
-## Usage
+## Usage 🚀
 
 1. **Run the Streamlit application**:
    ```sh
@@ -81,7 +84,7 @@ Before you begin, ensure you have met the following requirements:
 ## Project Structure
 
 ```
-ocr-application/
+ocr-vision/
 │
 ├── app.py                   # Main application file
 ├── requirements.txt         # Python package dependencies
@@ -105,3 +108,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [Pillow](https://python-pillow.org/)
 - [pdf2image](https://github.com/Belval/pdf2image)
+
+We hope you enjoy using OCR-Vision! 🚀
