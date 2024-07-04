@@ -12,7 +12,7 @@ This is a simple OCR (Optical Character Recognition) application built using Str
 - **Fast and accurate text extraction**.
 - **Cross-platform support** (Windows, macOS, Linux).
 
-## About Tesseract
+## About Tesseract 🔮
 
 [Tesseract](https://github.com/tesseract-ocr/tesseract) is one of the most accurate open-source OCR engines available today. Developed by HP and currently maintained by Google, Tesseract has support for multiple languages and can recognize over 100 different languages. It uses machine learning techniques, including LSTM (Long Short-Term Memory) neural networks, for text recognition.
 
@@ -23,7 +23,7 @@ This is a simple OCR (Optical Character Recognition) application built using Str
 - **Highly Accurate**: Tesseract uses machine learning algorithms to achieve high accuracy in text recognition.
 - **Versatile**: It can handle a variety of input formats, including images, PDFs, and even multi-page documents.
 
-## How OCR Works
+## How OCR Works 🛠️
 
 Optical Character Recognition (OCR) is a technology that converts different types of documents, such as scanned paper documents, PDFs, or images captured by a digital camera, into editable and searchable data. OCR processes the text in an image through the following steps:
 
@@ -32,7 +32,7 @@ Optical Character Recognition (OCR) is a technology that converts different type
 3. **Character Recognition**: Converts the detected text areas into machine-encoded text using pattern recognition algorithms.
 4. **Post-Processing**: Corrects errors and improves the accuracy of the recognized text.
 
-## OCR Process Flow
+## OCR Process Flow 🔀
 
 ![OCR_ProcessFlow](OCR_ProcessFlow.png)
 
@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.6 or higher
 - `pip` package installer
 
-## Installation
+## Installation 📂
 
 1. **Clone the repository**:
 
