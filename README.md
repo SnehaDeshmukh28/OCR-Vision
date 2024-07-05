@@ -107,6 +107,16 @@ Before you begin, ensure you have met the following requirements:
    - The uploaded file will be displayed on the page.
    - The extracted text will be shown below the uploaded file.
 
+## Project Structure
+
+```
+ocr-vision/
+│
+├── app.py                   # Main application file
+├── requirements.txt         # Python package dependencies
+└── README.md                # Project README file
+```
+
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io/)
