@@ -9,7 +9,8 @@ This is a simple OCR (Optical Character Recognition) application built using Str
 - **Display the uploaded image or PDF**.
 - **Extract and display text** from the uploaded files using Tesseract OCR.
 - **User-friendly interface** with Streamlit.
-
+- **Fast and accurate text extraction**.
+- **Cross-platform support** (Windows, macOS, Linux).
 
 ## About Tesseract 🔮
 
